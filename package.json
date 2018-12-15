@@ -1,0 +1,26 @@
+{
+  "name": "moreexpressroutingpractice",
+  "version": "1.0.0",
+  "description": "Practicing Express routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NegaAshley/MoreExpressRoutingPractice.git"
+  },
+  "keywords": [
+    "express",
+    "routing"
+  ],
+  "author": "Ashley Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NegaAshley/MoreExpressRoutingPractice/issues"
+  },
+  "homepage": "https://github.com/NegaAshley/MoreExpressRoutingPractice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
