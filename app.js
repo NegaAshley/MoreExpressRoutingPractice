@@ -10,7 +10,7 @@ app.get("/", function(request, response){
 
 //Speak routing
 app.get("/speak/:animal", function(request, response){
-    var animal = request.params.animal;
+    var animal = request.params.animal.toLowerCase();
     var animalNoise;
     
     switch(animal){
